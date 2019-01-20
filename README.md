@@ -10,4 +10,4 @@ Some of the general topics covered in this course project include,
 - Gulp and Grunt
 
 ## Author
-Tamara Alhajj - [Github]{https://github.com/TamaraAlhajj}
+Tamara Alhajj - [Github](https://github.com/TamaraAlhajj)
