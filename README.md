@@ -1,5 +1,8 @@
 # conFusion
-A website for the fictional the restaurant "conFusion".
+
+First project for the Full-Stack Web Development Specialization by [The Hong Kong University of Science and Technology](https://www.ust.hk/). 
+
+**Main Task:** Implement a website for the fictional the restaurant "conFusion".
 
 ## Motivation
 
