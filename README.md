@@ -14,3 +14,5 @@ Some of the general topics covered in this course project include,
 
 ## Author
 Tamara Alhajj - [Github](https://github.com/TamaraAlhajj)
+
+Professor Jogesh Muppala
